@@ -14,6 +14,7 @@ Para ejecutar el codigo tan solo debes seguir los siguientes pasos:
 
 ```powershell
 git clone https://github.com/Whattss/twitter-clone.git
+cd twitter-clone
 npm install
 npm run dev
 ```
