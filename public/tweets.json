@@ -1,0 +1,520 @@
+[
+    {
+      "id": "tweet-1",
+      "userId": "user-1",
+      "content": "Acabo de publicar mi nuevo artículo sobre React 18. ¡Échale un vistazo! #React #Frontend",
+      "likes": 1245,
+      "retweets": 342,
+      "replies": 89,
+      "timeAgo": "2h",
+      "images": [
+        "https://source.unsplash.com/random/600x400/?react"
+      ]
+    },
+    {
+      "id": "tweet-2",
+      "userId": "user-3",
+      "content": "Disfrutando de un hermoso día en la playa 🏖️ #verano #vacaciones",
+      "likes": 876,
+      "retweets": 123,
+      "replies": 45,
+      "timeAgo": "4h",
+      "images": [
+        "https://source.unsplash.com/random/600x400/?beach",
+        "https://source.unsplash.com/random/600x400/?ocean"
+      ]
+    },
+    {
+      "id": "tweet-3",
+      "userId": "user-4",
+      "content": "Breaking: Apple anuncia nuevos productos para el próximo trimestre. Más detalles en nuestro sitio web.",
+      "likes": 3421,
+      "retweets": 1245,
+      "replies": 287,
+      "timeAgo": "1h",
+      "images": []
+    },
+    {
+      "id": "tweet-4",
+      "userId": "user-2",
+      "content": "Preparando mi nueva exposición de arte contemporáneo. ¿Alguien interesado en asistir al evento privado?",
+      "likes": 543,
+      "retweets": 87,
+      "replies": 32,
+      "timeAgo": "5h",
+      "images": [
+        "https://source.unsplash.com/random/600x400/?art"
+      ]
+    },
+    {
+      "id": "tweet-5",
+      "userId": "user-6",
+      "content": "Después de 3 meses de desarrollo, por fin lanzamos nuestra nueva plataforma. ¡Gracias a todo el equipo!",
+      "likes": 2314,
+      "retweets": 567,
+      "replies": 124,
+      "timeAgo": "3h",
+      "images": [
+        "https://source.unsplash.com/random/600x400/?office",
+        "https://source.unsplash.com/random/600x400/?team"
+      ]
+    },
+    {
+      "id": "tweet-6",
+      "userId": "user-8",
+      "content": "⚽️ ¡Gran victoria del equipo hoy! 3-0 en el clásico. Jugadores destacados: Martínez con 2 goles y González con 1.",
+      "likes": 8765,
+      "retweets": 3245,
+      "replies": 876,
+      "timeAgo": "30m",
+      "images": []
+    },
+    {
+      "id": "tweet-7",
+      "userId": "user-5",
+      "content": "Recomendación literaria: 'El jardín de las mariposas' de Dot Hutchison. Una lectura que no podrás soltar. #libros",
+      "likes": 432,
+      "retweets": 87,
+      "replies": 23,
+      "timeAgo": "7h",
+      "images": [
+        "https://source.unsplash.com/random/600x400/?book"
+      ]
+    },
+    {
+      "id": "tweet-8",
+      "userId": "user-7",
+      "content": "Hoy cumplo 5 años en esta increíble empresa. ¡Gracias a todos los colegas por hacer cada día especial!",
+      "likes": 765,
+      "retweets": 123,
+      "replies": 56,
+      "timeAgo": "6h",
+      "images": [
+        "https://source.unsplash.com/random/600x400/?celebration"
+      ]
+    },
+    {
+      "id": "tweet-9",
+      "userId": "user-10",
+      "content": "Nuevo episodio de mi podcast sobre emprendimiento ya disponible. Hablamos con el fundador de @startupnews sobre su éxito.",
+      "likes": 987,
+      "retweets": 321,
+      "replies": 43,
+      "timeAgo": "8h",
+      "images": []
+    },
+    {
+      "id": "tweet-10",
+      "userId": "user-9",
+      "content": "Receta del día: Risotto de hongos silvestres. ¡Fácil y delicioso! #cocina #recetas",
+      "likes": 654,
+      "retweets": 234,
+      "replies": 76,
+      "timeAgo": "9h",
+      "images": [
+        "https://source.unsplash.com/random/600x400/?risotto",
+        "https://source.unsplash.com/random/600x400/?mushroom"
+      ]
+    },
+    {
+      "id": "tweet-11",
+      "userId": "user-12",
+      "content": "Análisis político: Las últimas medidas económicas y su impacto en el mercado internacional. Informe completo en nuestro portal.",
+      "likes": 2345,
+      "retweets": 876,
+      "replies": 345,
+      "timeAgo": "2h",
+      "images": []
+    },
+    {
+      "id": "tweet-12",
+      "userId": "user-11",
+      "content": "Acabo de terminar mi primer maratón. ¡4:23:17! Nunca pensé que podría hacerlo. #running #fitness",
+      "likes": 3456,
+      "retweets": 765,
+      "replies": 234,
+      "timeAgo": "5h",
+      "images": [
+        "https://source.unsplash.com/random/600x400/?marathon"
+      ]
+    },
+    {
+      "id": "tweet-13",
+      "userId": "user-14",
+      "content": "Hoy en @techfuture hablamos sobre las tendencias en inteligencia artificial para 2023. No te lo pierdas.",
+      "likes": 1234,
+      "retweets": 432,
+      "replies": 87,
+      "timeAgo": "3h",
+      "images": []
+    },
+    {
+      "id": "tweet-14",
+      "userId": "user-13",
+      "content": "Fotos de mi viaje a Japón el mes pasado. ¡Qué país tan increíble! #viajes #japon",
+      "likes": 4567,
+      "retweets": 987,
+      "replies": 234,
+      "timeAgo": "1d",
+      "images": [
+        "https://source.unsplash.com/random/600x400/?japan",
+        "https://source.unsplash.com/random/600x400/?tokyo",
+        "https://source.unsplash.com/random/600x400/?kyoto"
+      ]
+    },
+    {
+      "id": "tweet-15",
+      "userId": "user-15",
+      "content": "Reseña: La nueva película de Christopher Nolan supera todas las expectativas. Un 10/10 en nuestra escala. #cine",
+      "likes": 7654,
+      "retweets": 2345,
+      "replies": 876,
+      "timeAgo": "4h",
+      "images": [
+        "https://source.unsplash.com/random/600x400/?movie"
+      ]
+    },
+    {
+      "id": "tweet-16",
+      "userId": "user-16",
+      "content": "¿Alguien más asistiendo a la conferencia de desarrollo web la próxima semana? Nos vemos allá! #webdev",
+      "likes": 432,
+      "retweets": 123,
+      "replies": 45,
+      "timeAgo": "8h",
+      "images": []
+    },
+    {
+      "id": "tweet-17",
+      "userId": "user-18",
+      "content": "Receta express: Pasta carbonara en 15 minutos. Perfecta para esas noches ocupadas. #recetarapida",
+      "likes": 987,
+      "retweets": 321,
+      "replies": 76,
+      "timeAgo": "10h",
+      "images": [
+        "https://source.unsplash.com/random/600x400/?pasta"
+      ]
+    },
+    {
+      "id": "tweet-18",
+      "userId": "user-17",
+      "content": "Después de 6 meses de trabajo, por fin veo resultados en mi emprendimiento. ¡Perseverancia es la clave!",
+      "likes": 2345,
+      "retweets": 765,
+      "replies": 123,
+      "timeAgo": "1d",
+      "images": []
+    },
+    {
+      "id": "tweet-19",
+      "userId": "user-20",
+      "content": "Hoy en @fitnessworld: Rutina de ejercicios para principiantes. ¡Empieza tu viaje fitness hoy mismo!",
+      "likes": 3456,
+      "retweets": 987,
+      "replies": 234,
+      "timeAgo": "5h",
+      "images": [
+        "https://source.unsplash.com/random/600x400/?gym"
+      ]
+    },
+    {
+      "id": "tweet-20",
+      "userId": "user-19",
+      "content": "Reflexión del día: 'El éxito es la suma de pequeños esfuerzos repetidos día tras día.' - Robert Collier",
+      "likes": 5432,
+      "retweets": 2345,
+      "replies": 345,
+      "timeAgo": "12h",
+      "images": []
+    },
+    {
+      "id": "tweet-21",
+      "userId": "user-22",
+      "content": "Acabo de terminar de leer 'Sapiens'. ¿Alguien quiere debatir sobre el capítulo 8? #libros #lectura",
+      "likes": 765,
+      "retweets": 123,
+      "replies": 87,
+      "timeAgo": "1d",
+      "images": [
+        "https://source.unsplash.com/random/600x400/?sapiens"
+      ]
+    },
+    {
+      "id": "tweet-22",
+      "userId": "user-21",
+      "content": "Top 5 destinos para visitar en 2023 según nuestros editores. ¿Cuál agregarías tú? #viajes",
+      "likes": 4321,
+      "retweets": 1234,
+      "replies": 543,
+      "timeAgo": "6h",
+      "images": [
+        "https://source.unsplash.com/random/600x400/?travel",
+        "https://source.unsplash.com/random/600x400/?vacation"
+      ]
+    },
+    {
+      "id": "tweet-23",
+      "userId": "user-24",
+      "content": "Cómo nuestra startup logró aumentar las ventas en un 300% en solo 6 meses. Caso de estudio completo en el hilo ↓",
+      "likes": 8765,
+      "retweets": 3456,
+      "replies": 765,
+      "timeAgo": "3h",
+      "images": []
+    },
+    {
+      "id": "tweet-24",
+      "userId": "user-23",
+      "content": "Mi nueva colección de fotos urbanas ya está disponible en mi sitio web. ¡Espero que les guste! #fotografia",
+      "likes": 1234,
+      "retweets": 321,
+      "replies": 87,
+      "timeAgo": "2d",
+      "images": [
+        "https://source.unsplash.com/random/600x400/?street",
+        "https://source.unsplash.com/random/600x400/?city"
+      ]
+    },
+    {
+      "id": "tweet-25",
+      "userId": "user-25",
+      "content": "¿Alguien más emocionado por el nuevo álbum de @musica_hoy? El single promete mucho! #musica",
+      "likes": 5432,
+      "retweets": 1234,
+      "replies": 432,
+      "timeAgo": "8h",
+      "images": []
+    },
+    {
+      "id": "tweet-26",
+      "userId": "user-27",
+      "content": "Entrevista exclusiva con el cantante de moda. Hablamos de su nuevo álbum, gira y proyectos futuros. #musica",
+      "likes": 6543,
+      "retweets": 2345,
+      "replies": 765,
+      "timeAgo": "5h",
+      "images": [
+        "https://source.unsplash.com/random/600x400/?singer"
+      ]
+    },
+    {
+      "id": "tweet-27",
+      "userId": "user-26",
+      "content": "Después de 3 años, por fin me gradúo hoy. ¡Gracias a todos los que me apoyaron en este camino! #graduacion",
+      "likes": 8765,
+      "retweets": 2345,
+      "replies": 543,
+      "timeAgo": "1d",
+      "images": [
+        "https://source.unsplash.com/random/600x400/?graduation"
+      ]
+    },
+    {
+      "id": "tweet-28",
+      "userId": "user-28",
+      "content": "¿Alguien más participando en el hackathon de este fin de semana? Buscando equipo para proyecto de IA. #programacion",
+      "likes": 432,
+      "retweets": 123,
+      "replies": 45,
+      "timeAgo": "2d",
+      "images": []
+    },
+    {
+      "id": "tweet-29",
+      "userId": "user-30",
+      "content": "Rutina de 15 minutos para trabajar todo el cuerpo. ¡Perfecta para días ocupados! #fitness #ejercicio",
+      "likes": 5432,
+      "retweets": 1234,
+      "replies": 321,
+      "timeAgo": "7h",
+      "images": [
+        "https://source.unsplash.com/random/600x400/?workout"
+      ]
+    },
+    {
+      "id": "tweet-30",
+      "userId": "user-29",
+      "content": "Hoy cumplo 1 año escribiendo en mi blog. ¡Gracias a los 10,000 suscriptores por este increíble apoyo!",
+      "likes": 2345,
+      "retweets": 765,
+      "replies": 123,
+      "timeAgo": "1d",
+      "images": []
+    },
+    {
+      "id": "tweet-31",
+      "userId": "user-32",
+      "content": "Mi nuevo artículo sobre diseño UX ya está publicado. ¿Qué opinan de las tendencias para este año? #UX #design",
+      "likes": 876,
+      "retweets": 234,
+      "replies": 87,
+      "timeAgo": "3h",
+      "images": [
+        "https://source.unsplash.com/random/600x400/?design"
+      ]
+    },
+    {
+      "id": "tweet-32",
+      "userId": "user-31",
+      "content": "Acabo de adoptar este hermoso cachorro. ¡Bienvenido a la familia Max! #perros #mascotas",
+      "likes": 5432,
+      "retweets": 1234,
+      "replies": 432,
+      "timeAgo": "2d",
+      "images": [
+        "https://source.unsplash.com/random/600x400/?dog",
+        "https://source.unsplash.com/random/600x400/?puppy"
+      ]
+    },
+    {
+      "id": "tweet-33",
+      "userId": "user-33",
+      "content": "Análisis: Cómo la nueva tecnología de baterías revolucionará la industria automotriz. #tecnologia #innovacion",
+      "likes": 6543,
+      "retweets": 2345,
+      "replies": 543,
+      "timeAgo": "6h",
+      "images": []
+    },
+    {
+      "id": "tweet-34",
+      "userId": "user-34",
+      "content": "Primer día como profesor universitario. ¡Nervioso pero emocionado por esta nueva etapa! #educacion",
+      "likes": 2345,
+      "retweets": 765,
+      "replies": 321,
+      "timeAgo": "1d",
+      "images": [
+        "https://source.unsplash.com/random/600x400/?university"
+      ]
+    },
+    {
+      "id": "tweet-35",
+      "userId": "user-35",
+      "content": "Recomendación de hoy: 'El poder del ahora' de Eckhart Tolle. Un libro que cambió mi perspectiva. #libros",
+      "likes": 4321,
+      "retweets": 1234,
+      "replies": 321,
+      "timeAgo": "8h",
+      "images": [
+        "https://source.unsplash.com/random/600x400/?book"
+      ]
+    },
+    {
+      "id": "tweet-36",
+      "userId": "user-36",
+      "content": "Informe especial: Cómo afectará la nueva ley fiscal a las pequeñas empresas. Análisis completo en nuestro portal.",
+      "likes": 7654,
+      "retweets": 2345,
+      "replies": 543,
+      "timeAgo": "4h",
+      "images": []
+    },
+    {
+      "id": "tweet-37",
+      "userId": "user-38",
+      "content": "Hoy en @cienciahoy: Los últimos descubrimientos sobre el cambio climático y qué podemos hacer al respecto.",
+      "likes": 5432,
+      "retweets": 1234,
+      "replies": 321,
+      "timeAgo": "5h",
+      "images": [
+        "https://source.unsplash.com/random/600x400/?climate"
+      ]
+    },
+    {
+      "id": "tweet-38",
+      "userId": "user-37",
+      "content": "Después de meses de práctica, por fin toco 'Claro de luna' completa al piano. ¡Qué satisfacción! #musica",
+      "likes": 8765,
+      "retweets": 2345,
+      "replies": 543,
+      "timeAgo": "2d",
+      "images": [
+        "https://source.unsplash.com/random/600x400/?piano"
+      ]
+    },
+    {
+      "id": "tweet-39",
+      "userId": "user-39",
+      "content": "Nuevo estudio revela datos sorprendentes sobre el comportamiento de las ballenas. #ciencia #naturaleza",
+      "likes": 6543,
+      "retweets": 2345,
+      "replies": 432,
+      "timeAgo": "7h",
+      "images": [
+        "https://source.unsplash.com/random/600x400/?whale"
+      ]
+    },
+    {
+      "id": "tweet-40",
+      "userId": "user-40",
+      "content": "¿Alguien más en la conferencia de marketing digital? Buscando conectar con profesionales del área. #marketing",
+      "likes": 432,
+      "retweets": 123,
+      "replies": 45,
+      "timeAgo": "1d",
+      "images": []
+    },
+    {
+      "id": "tweet-41",
+      "userId": "user-42",
+      "content": "Tendencias de moda para la próxima temporada. ¿Cuál es tu favorita? #moda #estilo",
+      "likes": 5432,
+      "retweets": 1234,
+      "replies": 321,
+      "timeAgo": "8h",
+      "images": [
+        "https://source.unsplash.com/random/600x400/?fashion",
+        "https://source.unsplash.com/random/600x400/?style"
+      ]
+    },
+    {
+      "id": "tweet-42",
+      "userId": "user-41",
+      "content": "Hoy cumplo 5 años sin fumar. ¡Si yo pude, tú también puedes! #salud #bienestar",
+      "likes": 8765,
+      "retweets": 3456,
+      "replies": 765,
+      "timeAgo": "1d",
+      "images": []
+    },
+    {
+      "id": "tweet-43",
+      "userId": "user-43",
+      "content": "Acabo de publicar mi primer artículo en Medium sobre desarrollo personal. ¡Los comentarios son bienvenidos!",
+      "likes": 432,
+      "retweets": 123,
+      "replies": 45,
+      "timeAgo": "2d",
+      "images": [
+        "https://source.unsplash.com/random/600x400/?writing"
+      ]
+    },
+    {
+      "id": "tweet-44",
+      "userId": "user-45",
+      "content": "Review: El nuevo juego de @gamingzone supera todas las expectativas. Gráficos impresionantes y jugabilidad adictiva.",
+      "likes": 6543,
+      "retweets": 2345,
+      "replies": 543,
+      "timeAgo": "5h",
+      "images": [
+        "https://source.unsplash.com/random/600x400/?gaming"
+      ]
+    },
+    {
+      "id": "tweet-45",
+      "userId": "user-44",
+      "content": "Mi nueva serie de pinturas abstractas ya está disponible en la galería. ¡Espero verlos en la inauguración! #arte",
+      "likes": 1234,
+      "retweets": 321,
+      "replies": 87,
+      "timeAgo": "3d",
+      "images": [
+        "https://source.unsplash.com/random/600x400/?abstract",
+        "https://source.unsplash.com/random/600x400/?art"
+      ]
+    }
+]

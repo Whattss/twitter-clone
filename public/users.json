@@ -1,0 +1,352 @@
+[
+    {
+      "id": "user-1",
+      "username": "Alex Rodríguez",
+      "handle": "alexrod",
+      "avatar": "https://randomuser.me/api/portraits/men/1.jpg",
+      "verified": true
+    },
+    {
+      "id": "user-2",
+      "username": "María García",
+      "handle": "mariag",
+      "avatar": "https://randomuser.me/api/portraits/women/1.jpg",
+      "verified": false
+    },
+    {
+      "id": "user-3",
+      "username": "Carlos Martínez",
+      "handle": "cmartinez",
+      "avatar": "https://randomuser.me/api/portraits/men/2.jpg",
+      "verified": true
+    },
+    {
+      "id": "user-4",
+      "username": "Tech News",
+      "handle": "technews",
+      "avatar": "https://randomuser.me/api/portraits/lego/1.jpg",
+      "verified": true
+    },
+    {
+      "id": "user-5",
+      "username": "Ana López",
+      "handle": "analopez",
+      "avatar": "https://randomuser.me/api/portraits/women/2.jpg",
+      "verified": false
+    },
+    {
+      "id": "user-6",
+      "username": "David Wilson",
+      "handle": "dwilson",
+      "avatar": "https://randomuser.me/api/portraits/men/3.jpg",
+      "verified": true
+    },
+    {
+      "id": "user-7",
+      "username": "Sofía Pérez",
+      "handle": "sofiperez",
+      "avatar": "https://randomuser.me/api/portraits/women/3.jpg",
+      "verified": false
+    },
+    {
+      "id": "user-8",
+      "username": "Fútbol Mundial",
+      "handle": "futbolworld",
+      "avatar": "https://randomuser.me/api/portraits/lego/2.jpg",
+      "verified": true
+    },
+    {
+      "id": "user-9",
+      "username": "Laura Smith",
+      "handle": "laurasmith",
+      "avatar": "https://randomuser.me/api/portraits/women/4.jpg",
+      "verified": false
+    },
+    {
+      "id": "user-10",
+      "username": "Juan González",
+      "handle": "juangonz",
+      "avatar": "https://randomuser.me/api/portraits/men/4.jpg",
+      "verified": true
+    },
+    {
+      "id": "user-11",
+      "username": "Emma Johnson",
+      "handle": "emmaj",
+      "avatar": "https://randomuser.me/api/portraits/women/5.jpg",
+      "verified": false
+    },
+    {
+      "id": "user-12",
+      "username": "Política Hoy",
+      "handle": "politicahoy",
+      "avatar": "https://randomuser.me/api/portraits/lego/3.jpg",
+      "verified": true
+    },
+    {
+      "id": "user-13",
+      "username": "Daniel Brown",
+      "handle": "danibrown",
+      "avatar": "https://randomuser.me/api/portraits/men/5.jpg",
+      "verified": false
+    },
+    {
+      "id": "user-14",
+      "username": "Marta Davis",
+      "handle": "martad",
+      "avatar": "https://randomuser.me/api/portraits/women/6.jpg",
+      "verified": true
+    },
+    {
+      "id": "user-15",
+      "username": "Cine Adictos",
+      "handle": "cineadictos",
+      "avatar": "https://randomuser.me/api/portraits/lego/4.jpg",
+      "verified": true
+    },
+    {
+      "id": "user-16",
+      "username": "Roberto Miller",
+      "handle": "robmiller",
+      "avatar": "https://randomuser.me/api/portraits/men/6.jpg",
+      "verified": false
+    },
+    {
+      "id": "user-17",
+      "username": "Elena Wilson",
+      "handle": "elenaw",
+      "avatar": "https://randomuser.me/api/portraits/women/7.jpg",
+      "verified": false
+    },
+    {
+      "id": "user-18",
+      "username": "Cocina Creativa",
+      "handle": "cocinacreativa",
+      "avatar": "https://randomuser.me/api/portraits/lego/5.jpg",
+      "verified": true
+    },
+    {
+      "id": "user-19",
+      "username": "Pablo Taylor",
+      "handle": "pablot",
+      "avatar": "https://randomuser.me/api/portraits/men/7.jpg",
+      "verified": false
+    },
+    {
+      "id": "user-20",
+      "username": "Claudia Moore",
+      "handle": "claudiam",
+      "avatar": "https://randomuser.me/api/portraits/women/8.jpg",
+      "verified": true
+    },
+    {
+      "id": "user-21",
+      "username": "Viajeros Globales",
+      "handle": "viajerosgl",
+      "avatar": "https://randomuser.me/api/portraits/lego/6.jpg",
+      "verified": true
+    },
+    {
+      "id": "user-22",
+      "username": "Oscar Lee",
+      "handle": "oscarlee",
+      "avatar": "https://randomuser.me/api/portraits/men/8.jpg",
+      "verified": false
+    },
+    {
+      "id": "user-23",
+      "username": "Natalia Harris",
+      "handle": "nataliah",
+      "avatar": "https://randomuser.me/api/portraits/women/9.jpg",
+      "verified": false
+    },
+    {
+      "id": "user-24",
+      "username": "Startup News",
+      "handle": "startupnews",
+      "avatar": "https://randomuser.me/api/portraits/lego/7.jpg",
+      "verified": true
+    },
+    {
+      "id": "user-25",
+      "username": "Ricardo Clark",
+      "handle": "ricardoc",
+      "avatar": "https://randomuser.me/api/portraits/men/9.jpg",
+      "verified": false
+    },
+    {
+      "id": "user-26",
+      "username": "Verónica Lewis",
+      "handle": "veronical",
+      "avatar": "https://randomuser.me/api/portraits/women/10.jpg",
+      "verified": true
+    },
+    {
+      "id": "user-27",
+      "username": "Música Hoy",
+      "handle": "musica_hoy",
+      "avatar": "https://randomuser.me/api/portraits/lego/8.jpg",
+      "verified": true
+    },
+    {
+      "id": "user-28",
+      "username": "Fernando Young",
+      "handle": "fernandoy",
+      "avatar": "https://randomuser.me/api/portraits/men/10.jpg",
+      "verified": false
+    },
+    {
+      "id": "user-29",
+      "username": "Diana Hall",
+      "handle": "dianah",
+      "avatar": "https://randomuser.me/api/portraits/women/11.jpg",
+      "verified": false
+    },
+    {
+      "id": "user-30",
+      "username": "Fitness World",
+      "handle": "fitnessworld",
+      "avatar": "https://randomuser.me/api/portraits/lego/9.jpg",
+      "verified": true
+    },
+    {
+      "id": "user-31",
+      "username": "Gabriel Allen",
+      "handle": "gabrielallen",
+      "avatar": "https://randomuser.me/api/portraits/men/11.jpg",
+      "verified": false
+    },
+    {
+      "id": "user-32",
+      "username": "Carolina King",
+      "handle": "carolinak",
+      "avatar": "https://randomuser.me/api/portraits/women/12.jpg",
+      "verified": true
+    },
+    {
+      "id": "user-33",
+      "username": "Tecnología Futura",
+      "handle": "techfuture",
+      "avatar": "https://randomuser.me/api/portraits/lego/10.jpg",
+      "verified": true
+    },
+    {
+      "id": "user-34",
+      "username": "Raúl Wright",
+      "handle": "raulw",
+      "avatar": "https://randomuser.me/api/portraits/men/12.jpg",
+      "verified": false
+    },
+    {
+      "id": "user-35",
+      "username": "Patricia Scott",
+      "handle": "patricias",
+      "avatar": "https://randomuser.me/api/portraits/women/13.jpg",
+      "verified": false
+    },
+    {
+      "id": "user-36",
+      "username": "Economía Diaria",
+      "handle": "economiadiaria",
+      "avatar": "https://randomuser.me/api/portraits/lego/11.jpg",
+      "verified": true
+    },
+    {
+      "id": "user-37",
+      "username": "Héctor Green",
+      "handle": "hectorg",
+      "avatar": "https://randomuser.me/api/portraits/men/13.jpg",
+      "verified": false
+    },
+    {
+      "id": "user-38",
+      "username": "Adriana Baker",
+      "handle": "adrianab",
+      "avatar": "https://randomuser.me/api/portraits/women/14.jpg",
+      "verified": true
+    },
+    {
+      "id": "user-39",
+      "username": "Ciencia Hoy",
+      "handle": "cienciahoy",
+      "avatar": "https://randomuser.me/api/portraits/lego/12.jpg",
+      "verified": true
+    },
+    {
+      "id": "user-40",
+      "username": "Arturo Adams",
+      "handle": "arturoa",
+      "avatar": "https://randomuser.me/api/portraits/men/14.jpg",
+      "verified": false
+    },
+    {
+      "id": "user-41",
+      "username": "Lucía Nelson",
+      "handle": "lucian",
+      "avatar": "https://randomuser.me/api/portraits/women/15.jpg",
+      "verified": false
+    },
+    {
+      "id": "user-42",
+      "username": "Moda Actual",
+      "handle": "modaactual",
+      "avatar": "https://randomuser.me/api/portraits/lego/13.jpg",
+      "verified": true
+    },
+    {
+      "id": "user-43",
+      "username": "Mario Carter",
+      "handle": "marioc",
+      "avatar": "https://randomuser.me/api/portraits/men/15.jpg",
+      "verified": false
+    },
+    {
+      "id": "user-44",
+      "username": "Silvia Mitchell",
+      "handle": "silviam",
+      "avatar": "https://randomuser.me/api/portraits/women/16.jpg",
+      "verified": true
+    },
+    {
+      "id": "user-45",
+      "username": "Gaming Zone",
+      "handle": "gamingzone",
+      "avatar": "https://randomuser.me/api/portraits/lego/14.jpg",
+      "verified": true
+    },
+    {
+      "id": "user-46",
+      "username": "Roberto Roberts",
+      "handle": "robertor",
+      "avatar": "https://randomuser.me/api/portraits/men/16.jpg",
+      "verified": false
+    },
+    {
+      "id": "user-47",
+      "username": "Beatriz Turner",
+      "handle": "beatrizt",
+      "avatar": "https://randomuser.me/api/portraits/women/17.jpg",
+      "verified": false
+    },
+    {
+      "id": "user-48",
+      "username": "Negocios Digitales",
+      "handle": "negociosdigitales",
+      "avatar": "https://randomuser.me/api/portraits/lego/15.jpg",
+      "verified": true
+    },
+    {
+      "id": "user-49",
+      "username": "Jorge Phillips",
+      "handle": "jorgep",
+      "avatar": "https://randomuser.me/api/portraits/men/17.jpg",
+      "verified": false
+    },
+    {
+      "id": "user-50",
+      "username": "Raquel Campbell",
+      "handle": "raquelc",
+      "avatar": "https://randomuser.me/api/portraits/women/18.jpg",
+      "verified": true
+    }
+  ]
